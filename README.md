@@ -11,6 +11,7 @@ Drop in a song, recording, or movie. MAKAN Media Translate uses Whisper locally 
 [**Download v0.1.0 for Windows**](https://makanlab.tech/media-translate/#download) · [Product page](https://makanlab.tech/media-translate/) · [Quick start](#quick-start) · [Report a problem](https://github.com/makan20042002/makan-media-translate/issues)
 
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-1677ff?style=flat-square) ![Local transcription](https://img.shields.io/badge/transcription-local-16c784?style=flat-square) ![Interface languages](https://img.shields.io/badge/UI-English%20%7C%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-7657ff?style=flat-square)
+![MIT licence](https://img.shields.io/badge/licence-MIT-f4c430?style=flat-square)
 
 </div>
 
@@ -106,7 +107,7 @@ MAKAN Media Translate uses:
 - Electron and electron-builder (MIT)
 - ffmpeg when supplied separately by the user
 
-Complete third-party notices are included with the distributed application. The licences of individual models still apply when those models are downloaded and used. This README does not grant a licence to unpublished application source code.
+MAKAN Media Translate is released under the [MIT Licence](LICENSE). Complete third-party notices are included with the distributed application. Third-party components and downloaded models remain subject to their own licences.
 
 ## Support
 
