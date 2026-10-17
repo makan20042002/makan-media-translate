@@ -97,25 +97,6 @@ There is no account, analytics, or tracking. API keys are held in memory and are
 - The app does **not** burn subtitles into video or convert media files.
 - Qwen, Canary, and Parakeet speech engines are not included.
 
-## Build from source
-
-Install the current [Node.js LTS](https://nodejs.org/), then run:
-
-```bash
-npm install
-npm run desktop    # open the Windows desktop app
-npm start          # run the browser version; stop it before npm test
-npm test           # run the test suite
-npm run installer  # create the Windows installer in dist/
-npm run dist       # create the portable executable in dist/
-```
-
-Developer documentation:
-
-- [Architecture overview](docs/OVERVIEW.md)
-- [Merge guide](docs/MERGE_GUIDE.md)
-- [Third-party licences](docs/THIRD_PARTY.md)
-
 ## Credits and licences
 
 MAKAN Media Translate uses:
@@ -125,7 +106,7 @@ MAKAN Media Translate uses:
 - Electron and electron-builder (MIT)
 - ffmpeg when supplied separately by the user
 
-See [`docs/THIRD_PARTY.md`](docs/THIRD_PARTY.md) for the complete notices and terms. The licences of individual models still apply when those models are downloaded and used.
+Complete third-party notices are included with the distributed application. The licences of individual models still apply when those models are downloaded and used. This README does not grant a licence to unpublished application source code.
 
 ## Support
 
